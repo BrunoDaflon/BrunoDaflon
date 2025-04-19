@@ -2,7 +2,7 @@
 
 **`Estudante Engenharia de Software`**
 
-Me chamo Bruno Batista, tenho 31 anos e sou natural de Saquarema (RJ). Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia, games, qualidade de vida e foi paixão a primeira visto logo assim que comecei esse curso.
+Me chamo Bruno Batista, tenho 31 anos e sou natural de Saquarema (RJ). Atualmente, estou cursando Engenharia de Software na Universidade de Vassouras. Sou apaixonado por tecnologia, games, qualidade de vida e foi paixão a primeira vista logo assim que comecei esse curso.
 
 <a href="https://www.instagram.com/brunobatistap/">Acompanhe minha vida pessoal melhor aqui</a> <img 
     align="left" 
